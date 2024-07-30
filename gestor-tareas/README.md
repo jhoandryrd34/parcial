@@ -1,3 +1,12 @@
+Gestor de tareas
+Funciones:
+-Agregar tareas
+-Marcar tareas completadas
+-Eliminar tareas
+-Filtar por completadas, no completas, y todas
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
